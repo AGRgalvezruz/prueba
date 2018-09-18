@@ -1,1 +1,2 @@
 Este es mi fichero
+otra linea mas
