@@ -266,4 +266,4 @@ def plotting(individual):
 plotting(hof[0]) #plotting the best individual
 ```
 
-![https://github.com/AGRgalvezruz/prueba/blob/master/HoF_decisionTree.png](attachment:https://github.com/AGRgalvezruz/prueba/blob/master/HoF_decisionTree.png)
+![HoF_decisionTree.png](https://github.com/AGRgalvezruz/prueba/blob/master/HoF_decisionTree.png)
